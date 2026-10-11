@@ -9,7 +9,7 @@
 ![Metadata](https://img.shields.io/badge/metadata-YAML-CB171E?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-Agents-purple?style=flat-square)
 ![Website](https://img.shields.io/badge/website-lotek--zone.com-black?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/LoTeK-Zone/markdown-frontmatter-guide?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/LoTeK-Zone/markdown-frontmatter-guide-for-humans-and-ai-agents?style=flat-square)
 
 ## Quick Assessment
 
