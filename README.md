@@ -1,3 +1,22 @@
+---
+title: "How-To: Organize Markdown Documents with YAML Frontmatter for Humans and AI Agents"
+description: "A practical guide to organizing, identifying, versioning and retrieving Markdown documents for individuals, projects and AI agents."
+
+document_id: "261010193817797"
+document_version: "1.0.0"
+created: "2026-10-10"
+updated: "2026-10-11"
+
+author: "LoTeK"
+document_type: "guide"
+status: "active"
+language: "en"
+
+category: "documentation/markdown"
+keywords: ["markdown", "yaml", "frontmatter", "document-management", "versioning", "ai-agents"]
+tags: ["markdown", "yaml", "frontmatter", "documentation", "ai-agents"]
+---
+
 # How-To: Organize Markdown Documents with YAML Frontmatter for Humans and AI Agents
 
 *A practical, tool-independent guide for a personal Zettelkasten, multi-project work and organizational documentation.*
